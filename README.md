@@ -38,4 +38,6 @@ xmlenhancer http://url/file.xml au-epg.xml (download the xmltv data from a url a
 
 xmlenhancer http://url/file.xml au-epg.xml -enabletvdb (as above with the addition of enabling artwork processing via TVDB)
 
+![xml](https://github.com/user-attachments/assets/3ea28196-0eef-4a67-a5c2-030d27568b66)
+
 
